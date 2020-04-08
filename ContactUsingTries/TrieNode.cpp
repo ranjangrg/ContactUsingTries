@@ -1,4 +1,4 @@
-#include "Node.h"
+#include "TrieNode.h"
 
 TrieNode::TrieNode() {
 	this->isWord = false;

@@ -18,15 +18,15 @@
     <ClCompile Include="ContactUsingTries.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Node.cpp">
+    <ClCompile Include="TrieNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Node.h">
+    <ClInclude Include="Basic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Basic.h">
+    <ClInclude Include="TrieNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

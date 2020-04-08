@@ -148,11 +148,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ContactUsingTries.cpp" />
-    <ClCompile Include="Node.cpp" />
+    <ClCompile Include="TrieNode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Basic.h" />
-    <ClInclude Include="Node.h" />
+    <ClInclude Include="TrieNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

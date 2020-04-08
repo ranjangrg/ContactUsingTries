@@ -1,5 +1,5 @@
 #include "Basic.h"
-#include "Node.h"
+#include "TrieNode.h"
 
 void runTriesTest() {
     TrieNode trie;
