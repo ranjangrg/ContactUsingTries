@@ -49,7 +49,8 @@ void TrieNode::addWord(std::string _word) {
 		currChild = currChild->children[_chr];
 		currChild->prefix = _prefixCache;
 	}
-	std::cout << "Word added: " << _word << std::endl;
+	// uncomment for DEBUG purposes
+	//std::cout << "Word added: " << _word << std::endl;
 	currChild->isWord = true;
 }
 
